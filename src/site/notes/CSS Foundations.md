@@ -13,7 +13,7 @@
 ---
 ## CSS Foundations
 Basic Syntax:.
-![[zEXCALIDRAW/Drawing   18.03.46  2023-02-10.excalidraw.svg \|300 ]]
+![[Excalidraw/Drawing   18.03.46  2023-02-10.excalidraw.svg \|300 ]]
 *Selectors* - refer to the HTML elements to which CSS rules apply
 	- Universal - global application ``"*"``
 	- Type - apply xxx whenever `<element>` is called upon, 
@@ -151,7 +151,7 @@ Then, we learned how to **control the CSS with your own CSS basic layers:**
 (EricMeyer Tool for CSS Reset)
 https://meyerweb.com/eric/tools/css/reset/
 
-![[zEXCALIDRAW/Drawing   16.59.04  2023-02-12.excalidraw \|600]]
+![[Excalidraw/Drawing   16.59.04  2023-02-12.excalidraw \|600]]
 
 
 https://www.reddit.com/r/webdev/comments/q25nv9/building_mobile_first_vs_desktop_first/hfp4ftq/
