@@ -132,3 +132,76 @@ https://elad.medium.com/how-does-css-work-92fe7116916d
 
 The default **CSS levels that we have in our browsers:**
 
+
+000
+
+
+-   **“CSS Properties Default Styles” (Level-1)** — this is in charge of creating all the default values of all the properties we have in CSS.
+-   **“User-Agent-Stylesheet” (Level-2)** — this is in charge of adding different default styles for some of the HTML elements.
+
+Then, we learned how to **control the CSS with your own CSS basic layers:**
+
+-   **“Normalize CSS” (Level-3)** — is in charge of keeping the default HTML styles, “User-Agent-Stylesheet” (Level 2), the same way across all browsers.
+-   **“CSS Reset” (Level-4)** — overrides almost all the default “User-Agent-Stylesheet” (Level-2) styles whose effect we want to eliminate right from the beginning of our projects.
+(EricMeyer Tool for CSS Reset)
+https://meyerweb.com/eric/tools/css/reset/
+
+
+000
+
+https://www.reddit.com/r/webdev/comments/q25nv9/building_mobile_first_vs_desktop_first/hfp4ftq/
+
+---
+### Adding CSS to HTML
+
+*External CSS* is the most common method you will come across, and it involves creating a separate file for the CSS and linking it inside of an HTML’s opening and closing `<head>` tags with a self-closing `<link>` element:
+
+```html
+<!-- index.html -->
+
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+```
+
+```css
+/* styles.css */
+
+div {
+  color: white;
+  background-color: black;
+}
+
+p {
+  color: red;
+}
+```
+	(+): 
+	1.  It keeps our HTML and CSS separated, which results in the HTML file being smaller and making things look cleaner.
+	2.  We only need to edit the CSS in _one_ place, which is especially handy for websites with many pages that all share similar styles.
+==
+*Internal CSS* involves embedding the CSS within the HTML file itself instead of creating a completely separate file. With the internal method, you place all the rules inside of a pair of opening and closing `<style>` tags, which are then placed inside of the opening and closing `<head>` tags of your HTML file.
+
+```html
+<!-- index.html -->
+
+
+<head>
+  <style>
+    div {
+      color: white;
+      background-color: black;
+    }
+
+    p {
+      color: red;
+    }
+  </style>
+</head>
+<body>...</body>
+```
+
+(+):
+	- useful for adding unique styles to a _single page_ of a website, but it doesn’t keep things separate like the external method
+
+*Inline CSS* makes it possible to add styles directly to HTML elements, BUT.. not recommended as it's probably not good practice  to over-clutter your page with individualistic stylings. Just note that it is possible for those extreme cases.. 
