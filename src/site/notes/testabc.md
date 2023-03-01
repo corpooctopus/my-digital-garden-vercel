@@ -9,7 +9,7 @@
 - (##Spe) Be mindful of the weight behind the css stylings you employ.. and how they weigh against the values of other selectors. ex. Instead of using `!important`, consider using cascade layers and using low weight specificity throughout your CSS so that styles are easily overridden with slightly more specific rules.
 - (##Inh) The Inheritance chapter is probably the most eye-opening behind how CSS works.. required read. 
 
-## CSS Foundations
+## CSS Foundation
 Basic Syntax:.
 
 *Selectors* - refer to the HTML elements to which CSS rules apply
