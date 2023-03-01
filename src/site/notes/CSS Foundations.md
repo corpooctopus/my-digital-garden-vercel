@@ -15,6 +15,8 @@
 Basic Syntax:.
 ![[Excalidraw/Drawing   18.03.46  2023-02-10.excalidraw.svg \|300 ]]
 ![Drawing   18.03.46  2023-02-10.excalidraw.png|500](/img/user/Excalidraw/Drawing%20%20%2018.03.46%20%202023-02-10.excalidraw.png)
+png
+![Drawing   18.03.46  2023-02-10.excalidraw.png](/img/user/Excalidraw/Drawing%20%20%2018.03.46%20%202023-02-10.excalidraw.png)
 *Selectors* - refer to the HTML elements to which CSS rules apply
 	- Universal - global application ``"*"``
 	- Type - apply xxx whenever `<element>` is called upon, 
