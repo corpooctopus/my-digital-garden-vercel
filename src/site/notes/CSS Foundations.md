@@ -3,9 +3,7 @@
 ---
 
 
-
 ### PersonalNote: 
-
 - avoid complications. Keep it simple and clean. avoid name collisions. 
 	- apply 90/10 rule and attempt to keep everything decluttered. Use unique selectors for edge cases, and if you do use them.. leave comments and pointers 
 - (##Typ) good practice to include a list of values when playing -> font; your ideal-intended font and a generic fallback. 
@@ -15,9 +13,6 @@
 ---
 ## CSS Foundations
 Basic Syntax:.
-![[zEXCALIDRAW/Drawing   13.49.47  2023-02-10_0.excalidraw \|200 ]]
-
-
 ![[Drawing   18.03.46  2023-02-10.excalidraw.svg \| 400]]
 *Selectors* - refer to the HTML elements to which CSS rules apply
 	- Universal - global application ``"*"``
