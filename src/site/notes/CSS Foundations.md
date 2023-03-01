@@ -14,6 +14,7 @@
 ## CSS Foundations
 Basic Syntax:.
 ![[Excalidraw/Drawing   18.03.46  2023-02-10.excalidraw.svg \|300 ]]
+![Drawing   18.03.46  2023-02-10.excalidraw.png|500](/img/user/Excalidraw/Drawing%20%20%2018.03.46%20%202023-02-10.excalidraw.png)
 *Selectors* - refer to the HTML elements to which CSS rules apply
 	- Universal - global application ``"*"``
 	- Type - apply xxx whenever `<element>` is called upon, 
@@ -152,7 +153,8 @@ Then, we learned how to **control the CSS with your own CSS basic layers:**
 https://meyerweb.com/eric/tools/css/reset/
 
 ![[Excalidraw/Drawing   16.59.04  2023-02-12.excalidraw \|600]]
-
+png
+![[Drawing   16.59.04  2023-02-12.excalidraw.png \|600]]
 
 https://www.reddit.com/r/webdev/comments/q25nv9/building_mobile_first_vs_desktop_first/hfp4ftq/
 
