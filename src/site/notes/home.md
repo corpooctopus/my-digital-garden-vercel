@@ -10,8 +10,12 @@
  - [HTML Foundations](obsidian://open?vault=_notes&file=HTML%20Foundations)
  - [CSS Foundations](obsidian://open?vault=_notes&file=CSS%20Foundations)
 
+---
+Wikilinks:: 
 
-
+- [[Prerequisites\|Prerequisites]]
+- [[HTML Foundations\|HTML Foundations]]
+- [[CSS Foundations\|CSS Foundations]]
 
 
 
