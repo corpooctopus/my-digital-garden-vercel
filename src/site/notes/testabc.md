@@ -134,6 +134,8 @@ The default **CSS levels that we have in our browsers:**
 
 
 000
+ 16.22.14
+
 
 
 -   **“CSS Properties Default Styles” (Level-1)** — this is in charge of creating all the default values of all the properties we have in CSS.
@@ -148,6 +150,7 @@ https://meyerweb.com/eric/tools/css/reset/
 
 
 000
+ 16.59.04 
 
 https://www.reddit.com/r/webdev/comments/q25nv9/building_mobile_first_vs_desktop_first/hfp4ftq/
 
