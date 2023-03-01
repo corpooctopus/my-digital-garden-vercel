@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/testabc/"}
 ---
 
+apple
 ### PersonalNote: 
 - avoid complications. Keep it simple and clean. avoid name collisions. 
 	- apply 90/10 rule and attempt to keep everything decluttered. Use unique selectors for edge cases, and if you do use them.. leave comments and pointers 
