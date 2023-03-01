@@ -40,7 +40,7 @@ KnowledgeCheck:
 
 ---
 ## How does the web work? 
-![[Drawing   13.49.47  2023-02-10_0.excalidraw.svg \| left ]]
+![[Excalidraw/Drawing   13.49.47  2023-02-10_0.excalidraw.svg \| left ]]
 KnowledgeCheck: 
 -   [What is a web server?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines)
 -   [What is a network?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
