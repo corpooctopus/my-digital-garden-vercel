@@ -8,7 +8,7 @@
 Wiki:: 
 - [[Prerequisites\|Prerequisites]]
 - [[HTML Foundations\|HTML Foundations]]
-[[CSS Foundations\|CSS Foundations]]
+- [[CSS Foundations\|CSS Foundations]]
 [[testabc\|testabc]]
 
 ---
